@@ -1,0 +1,4 @@
+D 'cixr': calculates the concentration index (CIX) and can handle grouped data or microdata Use cixr With STATA 19
+D
+F cixr.ado
+F cixr.sthlp
