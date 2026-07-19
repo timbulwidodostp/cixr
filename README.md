@@ -1,6 +1,8 @@
 # cixr
 Calculates the concentration index (CIX) and can handle grouped data or microdata Use cixr With STATA 19
 
+https://www.youtube.com/watch?v=iiJQCDpm4bM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
